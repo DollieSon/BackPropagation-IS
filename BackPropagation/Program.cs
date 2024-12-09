@@ -1,4 +1,4 @@
-namespace BackPropagation
+namespace Backpropagation_Neural_Networks
 {
     internal static class Program
     {
